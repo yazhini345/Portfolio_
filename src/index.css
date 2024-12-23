@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* In your index.css or your global stylesheet */
+@keyframes rollIn {
+  0% {
+    transform: translateX(-100%);
+    opacity: 0;
+  }
+  100% {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+.animate-roll-in {
+  animation: rollIn 1s ease-out forwards;
+}
+
+.skill-item:nth-child(even) {
+  animation-delay: 0.3s;
+}
+
+.skill-item:nth-child(odd) {
+  animation-delay: 0.5s;
+}
