@@ -4,7 +4,7 @@ import '../index.css';
 const Content = () => {
   return (
     <div className='flex flex-col items-center justify-center min-h-screen bg-hero-gif bg-cover bg-center h-screen flex items-center justify-center mx-auto'>
-      <h1 className='text-white sm:text-5xl md:text-6xl font-extrabold mb-4 tracking-wide mx-auto'>
+      <h1 className='text-white sm:text-5xl md:text-7xl font-extrabold mb-4 tracking-wide mx-auto'>
         YAZHINI V
       </h1>
       <h3 className='text-white text-xl sm:text-2xl md:text-3xl font-medium'>

@@ -5,8 +5,9 @@ const Contact = () => {
     <div
       className="bg-[url('https://img.freepik.com/free-vector/digital-dark-wavy-background_23-2148388254.jpg')] bg-cover bg-center text-white py-12"
     >
-      <h1 className="text-4xl font text-left pl-20 mb-10 tracking-wider">Connect with me</h1>
-
+      <h3 className="text-3xl sm:text-3xl md:text-3xl lg:text-3xl font text-left pl-5 sm:pl-10 md:pl-14 lg:pl-20 mb-10 tracking-wider">
+        Connect with me
+      </h3>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8 px-6 sm:px-10 lg:px-20">
         {/* GitHub Link */}
         <div className="flex items-center justify-start space-x-4">
