@@ -25,20 +25,7 @@ const Project = () => {
           </a>
         </div>
 
-        {/* Card 2 */}
-          <div className="bg-blue-500 p-6 rounded-lg shadow-lg h-auto hover:scale-105 transition-transform duration-300 text-white">
-          <img
-            src={xt}
-            alt="ChatGPT with Hugging Face"
-            className="w-full h-[300px] object-cover rounded transition-transform duration-500 ease-in-out transform hover:scale-110"
-          />
-          <h3 className="text-xl font-bold mb-2 mt-4">PostNext</h3>
-          <p className="text-sm leading-relaxed">Built a chatbot leveraging LLMs and Hugging Face APIs.</p>
-          <p className="text-sm mt-2"><strong>Technologies:</strong> React, TailwindCSS</p>
-          <a href="https://github.com/yazhini345/Promptopia_next.js" target="_blank" rel="noopener noreferrer" className="text-white mt-2 block hover:underline transition-all duration-300 ease-in-out">
-            GitHub Link
-          </a>
-        </div>
+
 
         {/* Card 3 */}
         <div className="bg-blue-500 p-6 rounded-lg shadow-lg h-auto hover:scale-105 transition-transform duration-300 text-white">
