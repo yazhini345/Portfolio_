@@ -36,7 +36,7 @@ const Content = () => {
       </div>
 
       <div className='mt-10 text-white text-xl font-normal border bg-black p-2 rounded-lg'>
-        <a href="https://drive.google.com/file/d/1XruLvEKEPIZKzf9d2ij9OzXK7DdQIi1d/view?usp=drive_link" target="_blank" rel="noopener noreferrer">View CV</a>
+        <a href="https://drive.google.com/file/d/1XruLvEKEPIZKzf9d2ij9OzXK7DdQIi1d/view" target="_blank" rel="noopener noreferrer">View CV</a>
       </div>
     </div>
   )
