@@ -18,7 +18,7 @@ const Project = () => {
             className="w-full h-auto object-cover rounded transition-transform duration-500 ease-in-out transform hover:scale-110"
           />
           <h3 className="text-xl font-bold mb-2 mt-4">Category Tracker</h3>
-          <p className="text-sm leading-relaxed">A dynamic and responsive platform for product browsing and secure checkout.</p>
+          <p className="text-sm leading-relaxed">A dynamic and responsive platform for product browsing and secure checkout basrd on the category.</p>
           <p className="text-sm mt-2"><strong>Technologies:</strong> React, TailwindCSS</p>
           <a href="https://github.com/yazhini345/Form-Table-Filter" target="_blank" rel="noopener noreferrer" className="text-white mt-2 block hover:underline transition-all duration-300 ease-in-out">
             GitHub Link
@@ -35,7 +35,7 @@ const Project = () => {
             className="w-full h-auto object-cover rounded transition-transform duration-500 ease-in-out transform hover:scale-110"
           />
           <h3 className="text-xl font-bold mb-2 mt-4">PostNext</h3>
-          <p className="text-sm leading-relaxed">Built a chatbot leveraging LLMs and Hugging Face APIs.</p>
+          <p className="text-sm leading-relaxed">A dynamic platform enabling users to create, view, and manage posts with tagging functionality. Built using ReactJS and TailwindCSS, it offers a responsive and intuitive user experience.</p>
           <p className="text-sm mt-2"><strong>Technologies:</strong> React, TailwindCSS</p>
           <a href="https://github.com/yazhini345/post_next" target="_blank" rel="noopener noreferrer" className="text-white mt-2 block hover:underline transition-all duration-300 ease-in-out">
             GitHub Link
@@ -50,7 +50,7 @@ const Project = () => {
             className="w-full h-auto object-cover rounded transition-transform duration-500 ease-in-out transform hover:scale-110"
           />
           <h3 className="text-xl font-bold mb-2 mt-4">FunFeast Website</h3>
-          <p className="text-sm leading-relaxed">Developed a dynamic website using Bootstrap and WordPress.</p>
+          <p className="text-sm leading-relaxed">Developed a dynamic website using Bootstrap and HTML.</p>
           <p className="text-sm mt-2"><strong>Technologies:</strong> HTML, CSS, Bootstrap</p>
           <a href="https://github.com/yazhini345/FunFeast" target="_blank" rel="noopener noreferrer" className="text-white mt-2 block hover:underline transition-all duration-300 ease-in-out">
             GitHub Link
